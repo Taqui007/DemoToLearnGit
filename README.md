@@ -1,3 +1,3 @@
 # shortcut for header
 
-It's a Description !!! Yeaaa!!
+This is a description as all descriptions are
